@@ -1,0 +1,12 @@
+
+window:
+  padding:
+    x: 5
+    y: 5
+
+mouse:
+  hide_when_typing: true
+
+shell:
+  program: /bin/fish
+
